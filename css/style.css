@@ -2141,3 +2141,13 @@ form label {
   padding-top: 0.2em;
 }
 /*# sourceMappingURL=style.css.map */
+
+#skills ul{
+  list-style-type: none;
+  border: 1px solid gray;
+  border-radius: 10px;
+  height: 300px;
+  width: 250px;
+  font-size: 20px;
+  vertical-align: middle;
+}
