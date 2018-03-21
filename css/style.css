@@ -2142,12 +2142,22 @@ form label {
 }
 /*# sourceMappingURL=style.css.map */
 
+#skills h2{
+  color: grey;
+}
 #skills ul{
   list-style-type: none;
-  border: 1px solid gray;
+  /*border: 1px solid gray;*/
   border-radius: 10px;
   height: 300px;
   width: 250px;
   font-size: 20px;
-  vertical-align: middle;
+  text-align: center;
+}
+.parent {
+  display: flex;
+}
+
+.evenly {
+  justify-content: space-evenly;
 }
