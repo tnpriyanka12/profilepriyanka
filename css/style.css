@@ -2161,3 +2161,8 @@ form label {
 .evenly {
   justify-content: space-evenly;
 }
+
+
+.columns.download{
+  font-size: 20px;
+}
